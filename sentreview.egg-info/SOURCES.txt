@@ -1,0 +1,9 @@
+sentreview/__init__.py
+sentreview/backend.py
+sentreview/frontend.py
+sentreview/sents.py
+sentreview/setfileIO.py
+sentreview.egg-info/PKG-INFO
+sentreview.egg-info/SOURCES.txt
+sentreview.egg-info/dependency_links.txt
+sentreview.egg-info/top_level.txt

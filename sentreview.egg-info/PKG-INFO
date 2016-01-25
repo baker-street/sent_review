@@ -1,0 +1,28 @@
+Metadata-Version: 1.1
+Name: sentreview
+Version: 0.1.0
+Summary: NLP library
+Home-page: UNKNOWN
+Author: Steven Cutting
+Author-email: steven.e.cutting@linux.com
+License: GNU GPL v3+
+Description: sent_review
+        
+        sent_review  Copyright (C) 2015  Steven Cutting
+        
+Keywords: nlp text
+Platform: UNKNOWN
+Classifier: Topic :: NLP
+Classifier: Topic :: Text processing
+Classifier: Topic :: text munging
+Classifier: Topic :: data munging
+Classifier: Topic :: feature engineering
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Data Scientists
+Classifier: Operating System :: GNU Linux
+Classifier: Operating System :: OSX :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: GNU GPL v3+
+Classifier: Status :: pre-alpha
